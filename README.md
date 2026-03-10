@@ -1,0 +1,2 @@
+# zoro
+Interpreter in Zig.
